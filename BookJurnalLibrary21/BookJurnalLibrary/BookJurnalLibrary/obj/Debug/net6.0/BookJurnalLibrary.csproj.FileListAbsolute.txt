@@ -1,0 +1,113 @@
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.ResolveComReference.cache
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfoInputs.cache
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfo.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.CoreCompileInputs.cache
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.AssemblyReference.cache
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.ResolveComReference.cache
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfoInputs.cache
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfo.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.ResolveComReference.cache
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfoInputs.cache
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfo.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.deps.json
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.dll
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.pdb
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.AssemblyReference.cache
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.ResolveComReference.cache
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfoInputs.cache
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfo.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.dll
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\refint\BookJurnalLibrary.dll
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.pdb
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\ref\BookJurnalLibrary.dll
+D:\Скачанное\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.deps.json
+D:\Скачанное\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.dll
+D:\Скачанное\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.pdb
+D:\Скачанное\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+D:\Скачанное\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.ResolveComReference.cache
+D:\Скачанное\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Скачанное\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfoInputs.cache
+D:\Скачанное\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfo.cs
+D:\Скачанное\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.CoreCompileInputs.cache
+D:\Скачанное\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.dll
+D:\Скачанное\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\refint\BookJurnalLibrary.dll
+D:\Скачанное\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.pdb
+D:\Скачанное\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\ref\BookJurnalLibrary.dll
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.deps.json
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.dll
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.pdb
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.AssemblyReference.cache
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.ResolveComReference.cache
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfoInputs.cache
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfo.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.dll
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\refint\BookJurnalLibrary.dll
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.pdb
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\ref\BookJurnalLibrary.dll
+E:\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.deps.json
+E:\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.dll
+E:\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.pdb
+E:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+E:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.ResolveComReference.cache
+E:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfoInputs.cache
+E:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfo.cs
+E:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.CoreCompileInputs.cache
+E:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.dll
+E:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\refint\BookJurnalLibrary.dll
+E:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.pdb
+E:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\ref\BookJurnalLibrary.dll
+D:\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.deps.json
+D:\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.dll
+D:\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.pdb
+D:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.AssemblyReference.cache
+D:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+D:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.ResolveComReference.cache
+D:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfoInputs.cache
+D:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfo.cs
+D:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.CoreCompileInputs.cache
+D:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.dll
+D:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\refint\BookJurnalLibrary.dll
+D:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.pdb
+D:\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\ref\BookJurnalLibrary.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.deps.json
+C:\Users\simpl\Desktop\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.pdb
+C:\Users\simpl\Desktop\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.ResolveComReference.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simpl\Desktop\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfoInputs.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfo.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\refint\BookJurnalLibrary.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.pdb
+C:\Users\simpl\Desktop\BookJurnalLibrary\BookJurnalLibrary\obj\Debug\net6.0\ref\BookJurnalLibrary.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary2\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.deps.json
+C:\Users\simpl\Desktop\BookJurnalLibrary2\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary2\BookJurnalLibrary\bin\Debug\net6.0\BookJurnalLibrary.pdb
+C:\Users\simpl\Desktop\BookJurnalLibrary2\BookJurnalLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary2\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.ResolveComReference.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary2\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simpl\Desktop\BookJurnalLibrary2\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfoInputs.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary2\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.AssemblyInfo.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary2\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary2\BookJurnalLibrary\obj\Debug\net6.0\refint\BookJurnalLibrary.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary2\BookJurnalLibrary\obj\Debug\net6.0\BookJurnalLibrary.pdb
+C:\Users\simpl\Desktop\BookJurnalLibrary2\BookJurnalLibrary\obj\Debug\net6.0\ref\BookJurnalLibrary.dll

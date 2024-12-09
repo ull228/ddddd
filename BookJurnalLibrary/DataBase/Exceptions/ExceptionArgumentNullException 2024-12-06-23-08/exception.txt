@@ -1,0 +1,4 @@
+Exception: System.ArgumentNullException: Value cannot be null. (Parameter 'Please select a genre!')
+   at LibraryAssigmentWPF.UserControls.AddComics.IsComboBoxNull() in D:\BookJurnalLibrary\LibraryAssigmentWPF\UserControls\AddComics.xaml.cs:line 105
+   at LibraryAssigmentWPF.UserControls.AddComics.btnEnter_Click(Object sender, RoutedEventArgs e) in D:\BookJurnalLibrary\LibraryAssigmentWPF\UserControls\AddComics.xaml.cs:line 30 
+Date: 12/6/2024 10:23:08 AM

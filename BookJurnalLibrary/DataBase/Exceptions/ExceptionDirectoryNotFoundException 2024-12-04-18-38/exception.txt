@@ -1,0 +1,4 @@
+Exception: System.IO.DirectoryNotFoundException: The directory could not be found!
+   at BookJurnalLibrary.Customer.DeleteFile(String customerId) in D:\BookJurnalLibrary\BookJurnalLibrary\Customer.cs:line 82
+   at LibraryAssigmentWPF.UserControls.RemoveCustomer.btnInput_Click(Object sender, RoutedEventArgs e) in D:\BookJurnalLibrary\LibraryAssigmentWPF\UserControls\RemoveCustomer.xaml.cs:line 35 
+Date: 12/4/2024 12:18:38 PM

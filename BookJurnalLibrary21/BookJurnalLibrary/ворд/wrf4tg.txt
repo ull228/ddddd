@@ -1,0 +1,111 @@
+using BookJurnalLibrary;
+using Microsoft.Office.Interop.Word;
+using System.Collections.Generic;
+using System.IO;
+using System.Windows;
+using System.Windows.Controls;
+namespace LibraryAssigmentWPF.UserControls
+{
+    /// <summary>
+    /// Логика взаимодействия для ManageException.xaml
+    /// </summary>
+    public partial class ManageExceptions : UserControl
+    {
+        public ManageExceptions()
+        {
+            InitializeComponent();
+            btnReturn.ButtonContent = Resex.btnReturn;
+            btnWord.ButtonContent = Resex.btnWord;
+            btnReturn.ButtonClickEvent += BtnReturn_ButtonClickEvent;
+            btnWord.ButtonClickEvent += BtnWord_ButtonClickEvent;
+            DisplayExceptions();
+        }
+        private void BtnWord_ButtonClickEvent(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                Microsoft.Office.Interop.Word.Application wordApp = new Microsoft.Office.Interop.Word.Application();
+                wordApp.Visible = true;
+                Document doc = wordApp.Documents.Add();
+                Range range = doc.Content;
+                range.ParagraphFormat.Alignment = WdParagraphAlignment.wdAlignParagraphRight;
+                range.InsertAfter(title.Text + "\n\n");
+                List<string> items = DataBase.GetExceptions();
+                foreach (string item in items)
+                {
+                    range.InsertAfter(item.ToString() + "\n\n");
+                }
+                System.Runtime.InteropServices.Marshal.ReleaseComObject(doc);
+                System.Runtime.InteropServices.Marshal.ReleaseComObject(wordApp);
+            }
+            catch (DirectoryNotFoundException ex)
+            {
+                DataBase.LogException(ex);
+                MessageBox.Show(ex.Message, "ERROR", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+        private void BtnReturn_ButtonClickEvent(object sender, RoutedEventArgs e)
+        {
+            ReturnToMenu();
+        }
+        private void ReturnToMenu()
+        {
+            System.Windows.Window mainWindow = System.Windows.Window.GetWindow(this);
+            Grid ManageExceptionsGrid = (Grid)mainWindow.FindName("ManageExceptionsGrid");
+            ManageExceptionsGrid.Visibility = Visibility.Collapsed;
+            Grid managerGrid = (Grid)mainWindow.FindName("managerGrid");
+            managerGrid.Visibility = Visibility.Visible;
+        }
+        public void DisplayExceptions()
+        {
+            try
+            {
+                ListBox.ItemsSource = null;
+                ListBox.ItemsSource = DataBase.GetExceptions();
+            }
+            catch (DirectoryNotFoundException ex)
+            {
+                DataBase.LogException(ex);
+                MessageBox.Show(ex.Message, "ERROR", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+    }
+}
+
+
+<UserControl x:Class="LibraryAssigmentWPF.UserControls.ManageException"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LibraryAssigmentWPF.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="DarkSlateGray">
+        <Grid.RowDefinitions>
+            <RowDefinition Height=".2*"/>
+            <RowDefinition/>
+            <RowDefinition Height=".3*"/>
+        </Grid.RowDefinitions>
+        <Viewbox>
+            <TextBlock x:Name="title" Text="System Exception:" Grid.Row="0" VerticalAlignment="Center"
+                       HorizontalAlignment="Center" FontWeight="Bold" Foreground="Linen" FontFamily="David"/>
+        </Viewbox>
+
+        <Grid Grid.Row="1">
+            <Viewbox Grid.Column="1" x:Name="blueViewBox">
+                <ListBox x:Name="ListBox" Height="250" Width="700" Background="SlateGray" BorderBrush="Linen"
+                BorderThickness="3" Foreground="White" FontSize="15" Margin="0,10,0,10"/>
+            </Viewbox>
+        </Grid>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <local:MenuButton x:Name="btnReturn" Grid.Row="2" Grid.Column="0" Margin="30,20,30,20" HorizontalAlignment="Right"/>
+            <local:MenuButton x:Name="btnWord" Grid.Row="2" Grid.Column="1" Margin="30,20,30,20" HorizontalAlignment="Left"/>
+        </Grid>
+    </Grid>
+</UserControl>

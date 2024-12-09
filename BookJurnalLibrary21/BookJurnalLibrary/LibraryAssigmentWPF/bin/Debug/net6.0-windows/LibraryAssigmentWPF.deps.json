@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LibraryAssigmentWPF/1.0.0": {
+        "dependencies": {
+          "BookJurnalLibrary": "1.0.0"
+        },
+        "runtime": {
+          "LibraryAssigmentWPF.dll": {}
+        }
+      },
+      "BookJurnalLibrary/1.0.0": {
+        "runtime": {
+          "BookJurnalLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryAssigmentWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookJurnalLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

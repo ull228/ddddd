@@ -1,0 +1,4 @@
+Exception: System.IO.DirectoryNotFoundException: Customers directory could not be found!
+   at BookJurnalLibrary.Customer.LoadCustomers() in D:\BookJurnalLibrary\BookJurnalLibrary\Customer.cs:line 74
+   at LibraryAssigmentWPF.MainWindow..ctor() in D:\BookJurnalLibrary\LibraryAssigmentWPF\MainWindow.xaml.cs:line 34 
+Date: 12/4/2024 12:27:25 PM

@@ -1,0 +1,4 @@
+Exception: BookJurnalLibrary.IllegalIdException: ID must be exactly 5 digits
+   at BookJurnalLibrary.Customer.IsIdValid(String customerId) in D:\BookJurnalLibrary\BookJurnalLibrary\Customer.cs:line 47
+   at LibraryAssigmentWPF.UserControls.AddCustomer.btnInput_Click(Object sender, RoutedEventArgs e) in D:\BookJurnalLibrary\LibraryAssigmentWPF\UserControls\AddCustomer.xaml.cs:line 48 
+Date: 12/6/2024 10:35:00 AM

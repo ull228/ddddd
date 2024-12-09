@@ -1,0 +1,7 @@
+Exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\BookJurnalLibrary\DataBase\Customers\Customer  12334'.
+   at System.IO.FileSystem.GetFindData(String fullPath, Boolean isDirectory, Boolean ignoreAccessDenied, WIN32_FIND_DATA& findData)
+   at System.IO.FileSystem.RemoveDirectory(String fullPath, Boolean recursive)
+   at System.IO.Directory.Delete(String path, Boolean recursive)
+   at BookJurnalLibrary.Customer.DeleteFile(String customerId) in D:\BookJurnalLibrary\BookJurnalLibrary\Customer.cs:line 81
+   at LibraryAssigmentWPF.UserControls.RemoveCustomer.btnInput_Click(Object sender, RoutedEventArgs e) in D:\BookJurnalLibrary\LibraryAssigmentWPF\UserControls\RemoveCustomer.xaml.cs:line 32 
+Date: 12/6/2024 12:36:23 PM

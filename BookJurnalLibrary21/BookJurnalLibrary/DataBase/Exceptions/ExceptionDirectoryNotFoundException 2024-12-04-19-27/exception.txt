@@ -1,0 +1,4 @@
+Exception: System.IO.DirectoryNotFoundException: Journal data base directory could not be found!
+   at BookJurnalLibrary.DataBase.SaveItemInformation(AbstractItem item) in D:\BookJurnalLibrary\BookJurnalLibrary\DataBase.cs:line 24
+   at LibraryAssigmentWPF.UserControls.AddBook.btnEnter_Click(Object sender, RoutedEventArgs e) in D:\BookJurnalLibrary\LibraryAssigmentWPF\UserControls\AddBook.xaml.cs:line 37 
+Date: 12/4/2024 11:19:27 AM

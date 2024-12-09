@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookJurnalLibrary", "BookJurnalLibrary\BookJurnalLibrary.csproj", "{93434B68-E3E5-4C5E-818D-840D772BFA3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAssigmentWPF", "LibraryAssigmentWPF\LibraryAssigmentWPF.csproj", "{BD0DD8BA-FCC9-4F71-98C2-015F4BAD24C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93434B68-E3E5-4C5E-818D-840D772BFA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93434B68-E3E5-4C5E-818D-840D772BFA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93434B68-E3E5-4C5E-818D-840D772BFA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93434B68-E3E5-4C5E-818D-840D772BFA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0DD8BA-FCC9-4F71-98C2-015F4BAD24C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0DD8BA-FCC9-4F71-98C2-015F4BAD24C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0DD8BA-FCC9-4F71-98C2-015F4BAD24C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0DD8BA-FCC9-4F71-98C2-015F4BAD24C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C505597-1B01-40D7-A768-1A96189E98D7}
+	EndGlobalSection
+EndGlobal

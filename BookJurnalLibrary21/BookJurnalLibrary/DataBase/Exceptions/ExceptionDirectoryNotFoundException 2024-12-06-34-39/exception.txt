@@ -1,0 +1,4 @@
+Exception: System.IO.DirectoryNotFoundException: There are currently no Exceptions available for display
+   at BookJurnalLibrary.DataBase.DoesExceptionDirExist() in D:\BookJurnalLibrary\BookJurnalLibrary\DataBase.cs:line 247
+   at LibraryAssigmentWPF.UserControls.Manager.Button_Click(Object sender, RoutedEventArgs e) in D:\BookJurnalLibrary\LibraryAssigmentWPF\UserControls\Manager.xaml.cs:line 182 
+Date: 12/6/2024 10:34:40 AM

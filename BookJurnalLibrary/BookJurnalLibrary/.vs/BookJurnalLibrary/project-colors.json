@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "93434b68-e3e5-4c5e-818d-840d772bfa3a": {
+      "ProjectGuid": "93434b68-e3e5-4c5e-818d-840d772bfa3a",
+      "DisplayName": "BookJurnalLibrary",
+      "ColorIndex": 0
+    },
+    "bd0dd8ba-fcc9-4f71-98c2-015f4bad24c8": {
+      "ProjectGuid": "bd0dd8ba-fcc9-4f71-98c2-015f4bad24c8",
+      "DisplayName": "LibraryAssigmentWPF",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

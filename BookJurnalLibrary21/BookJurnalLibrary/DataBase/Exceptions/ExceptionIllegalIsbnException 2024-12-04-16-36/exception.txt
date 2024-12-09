@@ -1,0 +1,4 @@
+Exception: BookJurnalLibrary.IllegalIsbnException: The ISBN must be exactly 6 digits!
+   at BookJurnalLibrary.AbstractItem.IsIsbnValid(String isbn) in D:\BookJurnalLibrary\BookJurnalLibrary\AbstractItem.cs:line 57
+   at LibraryAssigmentWPF.UserControls.AddBook.btnEnter_Click(Object sender, RoutedEventArgs e) in D:\BookJurnalLibrary\LibraryAssigmentWPF\UserControls\AddBook.xaml.cs:line 32 
+Date: 12/4/2024 11:16:36 AM

@@ -1,0 +1,585 @@
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.AssemblyReference.cache
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\App.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.cache
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.lref
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageException.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.g.cs
+S:\ISP 251\Парушкин\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageException.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\App.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.cache
+D:\Скачанное\Парушкин 28.11.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.lref
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.AssemblyReference.cache
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageException.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\App.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.cache
+S:\ISP 251\Парушкин\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.lref
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.ResolveComReference.cache
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageException.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowJournals.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.cache
+C:\Users\Anxsut_47\Desktop\Парушкин 01.12.24\Парушкин 01.12.24\Парушкин 01.12.24\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.lref
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.AssemblyReference.cache
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.ResolveComReference.cache
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageException.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveJournal.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowClubCustomers.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowJournals.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.cache
+C:\Users\lazaa\Desktop\parus\new\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.lref
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.AssemblyReference.cache
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.ResolveComReference.cache
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveJournal.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowClubCustomers.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowJournals.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\App.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.cache
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.lref
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageExceptions.g.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.exe
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.deps.json
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.runtimeconfig.json
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.dll
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.pdb
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\BookJurnalLibrary.dll
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\BookJurnalLibrary.pdb
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageExceptions.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveJournal.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowClubCustomers.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowJournals.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.baml
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.g.resources
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.Resex.resources
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.GenerateResource.cache
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.AssemblyInfoInputs.cache
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.AssemblyInfo.cs
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.CoreCompileInputs.cache
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryA.5AF2922E.Up2Date
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.dll
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\refint\LibraryAssigmentWPF.dll
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.pdb
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.genruntimeconfig.cache
+D:\Скачанное\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\ref\LibraryAssigmentWPF.dll
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.exe
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.deps.json
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.runtimeconfig.json
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.dll
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.pdb
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\BookJurnalLibrary.dll
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\BookJurnalLibrary.pdb
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.AssemblyReference.cache
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.ResolveComReference.cache
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageExceptions.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveJournal.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowClubCustomers.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowJournals.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.cache
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.lref
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageExceptions.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveJournal.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowClubCustomers.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowJournals.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.baml
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.g.resources
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.Resex.resources
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.GenerateResource.cache
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.AssemblyInfoInputs.cache
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.AssemblyInfo.cs
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.CoreCompileInputs.cache
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.CopyComplete
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.dll
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\refint\LibraryAssigmentWPF.dll
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.pdb
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.genruntimeconfig.cache
+C:\Users\lazaa\Desktop\parus\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\ref\LibraryAssigmentWPF.dll
+E:\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.exe
+E:\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.deps.json
+E:\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.runtimeconfig.json
+E:\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.dll
+E:\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.pdb
+E:\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\BookJurnalLibrary.dll
+E:\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\BookJurnalLibrary.pdb
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.AssemblyReference.cache
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.ResolveComReference.cache
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageExceptions.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveJournal.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowClubCustomers.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowJournals.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\App.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.cache
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.lref
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\MainWindow.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageExceptions.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveJournal.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowClubCustomers.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowJournals.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.g.resources
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.Resex.resources
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.GenerateResource.cache
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.GeneratedMSBuildEditorConfig.editorconfig
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.AssemblyInfoInputs.cache
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.AssemblyInfo.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.CoreCompileInputs.cache
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.dll
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\refint\LibraryAssigmentWPF.dll
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.pdb
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.genruntimeconfig.cache
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\ref\LibraryAssigmentWPF.dll
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddComics.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics2.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveComics.g.cs
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddComics.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics2.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveComics.baml
+E:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.CopyComplete
+D:\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.exe
+D:\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.deps.json
+D:\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.runtimeconfig.json
+D:\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.dll
+D:\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.pdb
+D:\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\BookJurnalLibrary.dll
+D:\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\BookJurnalLibrary.pdb
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.AssemblyReference.cache
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.ResolveComReference.cache
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddComics.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics2.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageExceptions.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveComics.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveJournal.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowClubCustomers.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowComics.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowJournals.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\App.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.cache
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.lref
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\MainWindow.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddComics.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics2.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageExceptions.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveComics.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveJournal.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowClubCustomers.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowComics.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowJournals.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.baml
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.g.resources
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.Resex.resources
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.GenerateResource.cache
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.AssemblyInfoInputs.cache
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.AssemblyInfo.cs
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.CoreCompileInputs.cache
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.CopyComplete
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.dll
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\refint\LibraryAssigmentWPF.dll
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.pdb
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.genruntimeconfig.cache
+D:\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\ref\LibraryAssigmentWPF.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.AssemblyReference.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.ResolveComReference.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddComics.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics2.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageExceptions.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveComics.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveJournal.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowClubCustomers.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowComics.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowJournals.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.lref
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\refint\LibraryAssigmentWPF.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.pdb
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.exe
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.deps.json
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.runtimeconfig.json
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.pdb
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\BookJurnalLibrary.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\bin\Debug\net6.0-windows\BookJurnalLibrary.pdb
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddComics.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics2.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageExceptions.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveComics.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveJournal.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowClubCustomers.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowComics.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowJournals.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.g.resources
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.Resex.resources
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.GenerateResource.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.AssemblyInfoInputs.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.AssemblyInfo.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.CoreCompileInputs.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryA.5AF2922E.Up2Date
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.genruntimeconfig.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary\LibraryAssigmentWPF\obj\Debug\net6.0-windows\ref\LibraryAssigmentWPF.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.exe
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.deps.json
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.runtimeconfig.json
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\bin\Debug\net6.0-windows\LibraryAssigmentWPF.pdb
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\bin\Debug\net6.0-windows\BookJurnalLibrary.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\bin\Debug\net6.0-windows\BookJurnalLibrary.pdb
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.AssemblyReference.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.ResolveComReference.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddComics.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics2.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageExceptions.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveComics.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveJournal.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowClubCustomers.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowComics.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowJournals.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF_MarkupCompile.lref
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddBook.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddComics.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddCustomer.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\AddJournal.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ClearableTextBox.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditBook2.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditComics2.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\EditJournal2.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ManageExceptions.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Manager.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\MenuButton.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Receipts.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveBook.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveComics.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveCustomer.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\RemoveJournal.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\SellItems.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowAvailableItems.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowBooks.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowClubCustomers.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowComics.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\ShowJournals.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\UserControls\Worker.baml
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.g.resources
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.Resex.resources
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.GenerateResource.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.AssemblyInfoInputs.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.AssemblyInfo.cs
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.csproj.CoreCompileInputs.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryA.5AF2922E.Up2Date
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\refint\LibraryAssigmentWPF.dll
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.pdb
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\LibraryAssigmentWPF.genruntimeconfig.cache
+C:\Users\simpl\Desktop\BookJurnalLibrary2\LibraryAssigmentWPF\obj\Debug\net6.0-windows\ref\LibraryAssigmentWPF.dll
